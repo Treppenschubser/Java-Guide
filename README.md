@@ -5,7 +5,7 @@
 - [Eine Einführung](#eine-kurze-einführung)
 - [Die JVM](#die-jvm)
 - [Programme die wir benötigen](#programme-die-wir-benötigen)
-- [Wie geht es weiter ?](#wie-geht-es-weiter--)
+- [Wie geht es weiter ?](#wie-geht-es-weiter-)
 - [Anhang](#anhang)
 ---
 
