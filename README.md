@@ -131,5 +131,13 @@ Eine weiter Sache die von Vorteil wäre ist, das Du Git lernst. Es ist ganz einf
 
 ---
 
+## Ressorcen zum eigenständigen Lernen
+
+### Codeacedemy
+
+[Codeacedemy](https://www.codecademy.com/) ist eine kostenlose, interaktive Lernplattform auf welcher ihr Java lernen könnt. Sie hilf euch die **Grundlagen** einer Sprache, sowie des allgemeinen Programmieren zu erlernen. Zu beachten ist jedoch das es nur eine Hilfe ist, und nicht die Praxis ersetzt.
+
+---
+
 #### Anhang
 <p style="font-size:80%;">Die Bilder kommen von https://www.elektronik-kompendium.de und alle Rechte gehen dort auch hin.<p/>
